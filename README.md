@@ -1,0 +1,2 @@
+# Discord
+Only for Discord
